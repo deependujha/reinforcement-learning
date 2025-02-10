@@ -119,4 +119,4 @@ extra_javascript:
 nav:
   - Reinforcement Learning:
     - Home: index.md
-    
+    - Topics to be covered: 01-topics-to-be-covered.md
