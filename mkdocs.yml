@@ -120,3 +120,6 @@ nav:
   - Reinforcement Learning:
     - Home: index.md
     - Topics to be covered: 01-topics-to-be-covered.md
+    - Maths in Markdown: 02-maths.md
+    - Introduction:
+      - Immediate RL & Bandits: 01-intro/01-immediate-rl-and-bandits.md
