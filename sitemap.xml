@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://deependujha.github.io/reinforcement-learning/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://deependujha.github.io/reinforcement-learning/01-topics-to-be-covered/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://deependujha.github.io/reinforcement-learning/02-maths/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://deependujha.github.io/reinforcement-learning/01-intro/01-immediate-rl-and-bandits/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+</urlset>
