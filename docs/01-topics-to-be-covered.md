@@ -13,10 +13,29 @@
 
 ---
 
-## AI tutor as a Decision Process
+## Plan of action
 
-- Student initially doesn't know either addition (easier) or subtraction (harder).
-- AI tutor agent can provide practice problems about addition or subtraction.
-- AI agent gets rewarded +1 if student gets the problem right, -1 if wrong.
-- Model this as a **`Decision Process`**. Define `state space`, `action space`, and `reward model`.
-- What does the dynamics model represent? What would a policy to optimize the expected discounted sum of rewards yield?
+1. Model-free:
+    - Q-learning
+    - Policy Gradient
+    - Actor-Critic
+2. Model-based:
+    - Planning
+    - Sequence models
+3. Exploration
+4. Offline RL
+5. Inverse Reinforcement Learning
+6. Meta Learning
+7. Transfer Learning
+8. Multi-agent RL
+
+---
+
+## Homeworks & assignments
+
+1. HW1: Imitation Learning (control via supervised learning)
+2. HW2: Policy Gradient
+3. HW3: Q-learning & actor-critic algorithms
+4. HW4: Model-based RL
+5. HW5: Offline RL
+6. Final Project: Research level project of your choice
